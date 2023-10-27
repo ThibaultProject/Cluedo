@@ -1,0 +1,2676 @@
+# depslib dependency file v1.0
+1637513517 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\abstract_case.cpp
+	"Abstract_Case.h"
+
+1637513489 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\abstract_case.h
+	"paquet.h"
+	"Mur.h"
+	"outils.h"
+
+1637516085 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\paquet.h
+	<iostream>
+	<time.h>
+	<stack>
+	<vector>
+	<map>
+	<fstream>
+	<allegro.h>
+	"Carte.h"
+	"Allegfct.h"
+
+1637513411 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\carte.h
+
+1637513361 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\allegfct.h
+	"Paquet.h"
+
+1637514835 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\mur.h
+	"Paquet.h"
+
+1637514649 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\outils.h
+	"Paquet.h"
+	"Allegfct.h"
+
+1637513347 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\allegfct.cpp
+	"allegfct.h"
+
+1637513432 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\carte.cpp
+	"Paquet.h"
+	"Carte.h"
+	"Parme.h"
+	"Pperso.h"
+	"Ppiece.h"
+
+1637515999 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\parme.h
+	"Paquet.h"
+
+1637515946 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\pperso.h
+	"Paquet.h"
+
+1637515907 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\ppiece.h
+	"Paquet.h"
+
+1637513791 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\case_rouge.cpp
+	"Case_rouge.h"
+
+1637513782 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\case_rouge.h
+	"Abstract_Case.h"
+
+1637513718 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\case_telep.cpp
+	"Case_telep.h"
+
+1637513729 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\case_telep.h
+	"Abstract_Case.h"
+
+1637513668 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\case_verte.cpp
+	"Case_verte.h"
+
+1637513656 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\case_verte.h
+	"Abstract_Case.h"
+
+1637513614 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\caseneutre.cpp
+	"CaseNeutre.h"
+
+1637513604 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\caseneutre.h
+	"Paquet.h"
+	"Abstract_Case.h"
+
+1637514007 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\clavier.cpp
+	"Clavier.h"
+
+1637514020 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\clavier.h
+	"Allegfct.h"
+	"Pion.h"
+
+1637515716 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\pion.h
+	"Paquet.h"
+	"Allegfct.h"
+	"Abstract_Case.h"
+
+1637514997 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\compte.cpp
+	"Compte.h"
+
+1637515003 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\compte.h
+	"Paquet.h"
+
+1637513945 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\de.cpp
+	"De.h"
+
+1637513929 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\de.h
+	"Paquet.h"
+	"Allegfct.h"
+
+1637513879 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\enquete.cpp
+	"Enquete.h"
+
+1637513873 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\enquete.h
+	"Allegfct.h"
+
+1637514410 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\feuille_regles.cpp
+	"Feuille_regles.h"
+
+1637514419 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\feuille_regles.h
+	"Paquet.h"
+
+1637516100 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\abstract_joueur.cpp
+	"Abstract_Joueur.h"
+
+1637516093 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\abstract_joueur.h
+	"Paquet.h"
+	"Compte.h"
+	"Enquete.h"
+	"Clavier.h"
+	"Abstract_Case.h"
+	"Allegfct.h"
+	"Outils.h"
+	"Pion.h"
+
+1637514111 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\chrono.cpp
+	"Chrono.h"
+
+1637516102 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\chrono.h
+	"Allegfct.h"
+	"Outils.h"
+
+1584205420 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\main.cpp
+	<iostream>
+
+1637514826 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\mur.cpp
+	"Mur.h"
+
+1637514793 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\musiques.cpp
+	"Musiques.h"
+
+1637514762 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\musiques.h
+	"Paquet.h"
+
+1637514720 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\ordi.cpp
+	"Ordi.h"
+
+1637516114 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\ordi.h
+	"Paquet.h"
+	"Abstract_Joueur.h"
+	"Abstract_Case.h"
+
+1637514667 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\outils.cpp
+	"Outils.h"
+
+1637515201 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\paquet.cpp
+	"Paquet.h"
+
+1637515325 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\piececentre.cpp
+	"PieceCentre.h"
+
+1637515334 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\piececentre.h
+	"Abstract_Case.h"
+
+1637514485 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\enveloppe.cpp
+	"Enveloppe.h"
+
+1637516136 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\enveloppe.h
+	"Paquet.h"
+	"Pperso.h"
+	"Ppiece.h"
+	"Parme.h"
+	"Allegfct.h"
+
+1637516136 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\parme.cpp
+	"Parme.h"
+
+1637516119 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\pieceautre.cpp
+	"PieceAutre.h"
+
+1637515389 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\pieceautre.h
+	"Abstract_Case.h"
+
+1637515280 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\piececoin.cpp
+	"PieceCoin.h"
+
+1637515289 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\piececoin.h
+	"Abstract_Case.h"
+
+1637515694 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\pion.cpp
+	"Pion.h"
+
+1637515549 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\player.cpp
+	"Player.h"
+
+1637515537 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\player.h
+	"Paquet.h"
+	"Abstract_Joueur.h"
+
+1637515491 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\porte.cpp
+	"Porte.h"
+
+1637515481 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\porte.h
+	"Abstract_Case.h"
+
+1637515957 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\pperso.cpp
+	"Pperso.h"
+
+1637515908 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\ppiece.cpp
+	"Ppiece.h"
+
+1637515826 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\souris.cpp
+	"Souris.h"
+
+1637515809 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\souris.h
+	"Paquet.h"
+
+1637516171 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\plateau.cpp
+	"Plateau.h"
+
+1637516142 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\plateau.h
+	"Paquet.h"
+	"Enveloppe.h"
+	"Player.h"
+	"Ordi.h"
+	"Chrono.h"
+	"Allegfct.h"
+	"De.h"
+	"Abstract_Case.h"
+	"CaseNeutre.h"
+	"PieceAutre.h"
+	"PieceCoin.h"
+	"PieceCentre.h"
+	"Porte.h"
+	"Case_telep.h"
+	"Case_verte.h"
+	"Case_rouge.h"
+
+1637516214 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\hotel.cpp
+	"Hotel.h"
+
+1637516178 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo\hotel.h
+	"Musiques.h"
+	"Allegfct.h"
+	"Souris.h"
+	"Outils.h"
+	"Compte.h"
+	"Plateau.h"
+	"Feuille_regles.h"
+	"Clavier.h"
+	"Abstract_Joueur.h"
+
+1637516288 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_1\main.cpp
+	"Hotel.h"
+
+1637570278 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_1\hotel.h
+	"Musiques.h"
+	"Allegfct.h"
+	"Souris.h"
+	"Outils.h"
+	"Compte.h"
+	"Plateau.h"
+	"Feuille_regles.h"
+	"Clavier.h"
+	"Abstract_Joueur.h"
+
+1637570340 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_1\musiques.h
+	"Paquet.h"
+
+1637570428 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_1\paquet.h
+	<iostream>
+	<time.h>
+	<stack>
+	<vector>
+	<map>
+	<fstream>
+	<allegro.h>
+	"Carte.h"
+	"Allegfct.h"
+
+1637569828 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_1\carte.h
+
+1637513361 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_1\allegfct.h
+	"Paquet.h"
+
+1637570717 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_1\souris.h
+	"Paquet.h"
+
+1637570407 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_1\outils.h
+	"Paquet.h"
+	"Allegfct.h"
+
+1637569941 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_1\compte.h
+	"Paquet.h"
+
+1637570656 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_1\plateau.h
+	"Paquet.h"
+	"Enveloppe.h"
+	"Player.h"
+	"Ordi.h"
+	"Chrono.h"
+	"Allegfct.h"
+	"De.h"
+	"Abstract_Case.h"
+	"CaseNeutre.h"
+	"PieceAutre.h"
+	"PieceCoin.h"
+	"PieceCentre.h"
+	"Porte.h"
+	"Case_telep.h"
+	"Case_verte.h"
+	"Case_rouge.h"
+
+1637570084 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_1\enveloppe.h
+	"Paquet.h"
+	"Pperso.h"
+	"Ppiece.h"
+	"Parme.h"
+	"Allegfct.h"
+
+1637515946 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_1\pperso.h
+	"Paquet.h"
+
+1637515907 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_1\ppiece.h
+	"Paquet.h"
+
+1637515999 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_1\parme.h
+	"Paquet.h"
+
+1637570687 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_1\player.h
+	"Paquet.h"
+	"Abstract_Joueur.h"
+
+1637569780 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_1\abstract_joueur.h
+	"Paquet.h"
+	"Compte.h"
+	"Enquete.h"
+	"Clavier.h"
+	"Abstract_Case.h"
+	"Allegfct.h"
+	"Outils.h"
+	"Pion.h"
+
+1637570007 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_1\enquete.h
+	"Allegfct.h"
+
+1637569892 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_1\clavier.h
+	"Allegfct.h"
+	"Pion.h"
+
+1637570511 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_1\pion.h
+	"Paquet.h"
+	"Allegfct.h"
+	"Abstract_Case.h"
+
+1637569709 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_1\abstract_case.h
+	"paquet.h"
+	"Mur.h"
+	"outils.h"
+
+1637570291 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_1\mur.h
+	"Paquet.h"
+
+1637570376 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_1\ordi.h
+	"Paquet.h"
+	"Abstract_Joueur.h"
+	"Abstract_Case.h"
+
+1637569866 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_1\chrono.h
+	"Allegfct.h"
+	"Outils.h"
+
+1637569980 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_1\de.h
+	"Paquet.h"
+	"Allegfct.h"
+
+1637513604 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_1\caseneutre.h
+	"Paquet.h"
+	"Abstract_Case.h"
+
+1637515389 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_1\pieceautre.h
+	"Abstract_Case.h"
+
+1637515289 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_1\piececoin.h
+	"Abstract_Case.h"
+
+1637515334 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_1\piececentre.h
+	"Abstract_Case.h"
+
+1637515481 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_1\porte.h
+	"Abstract_Case.h"
+
+1637513729 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_1\case_telep.h
+	"Abstract_Case.h"
+
+1637513656 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_1\case_verte.h
+	"Abstract_Case.h"
+
+1637513782 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_1\case_rouge.h
+	"Abstract_Case.h"
+
+1637570115 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_1\feuille_regles.h
+	"Paquet.h"
+
+1637566142 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\abstract_case.cpp
+	"Abstract_Case.h"
+
+1637569709 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\abstract_case.h
+	"paquet.h"
+	"Mur.h"
+	"outils.h"
+
+1637570428 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\paquet.h
+	<iostream>
+	<time.h>
+	<stack>
+	<vector>
+	<map>
+	<fstream>
+	<allegro.h>
+	"Carte.h"
+	"Allegfct.h"
+
+1637569828 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\carte.h
+
+1637513361 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\allegfct.h
+	"Paquet.h"
+
+1637570291 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\mur.h
+	"Paquet.h"
+
+1637570407 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\outils.h
+	"Paquet.h"
+	"Allegfct.h"
+
+1637566133 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\abstract_joueur.cpp
+	"Abstract_Joueur.h"
+
+1637569780 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\abstract_joueur.h
+	"Paquet.h"
+	"Compte.h"
+	"Enquete.h"
+	"Clavier.h"
+	"Abstract_Case.h"
+	"Allegfct.h"
+	"Outils.h"
+	"Pion.h"
+
+1637569941 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\compte.h
+	"Paquet.h"
+
+1637570007 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\enquete.h
+	"Allegfct.h"
+
+1637569892 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\clavier.h
+	"Allegfct.h"
+	"Pion.h"
+
+1637570511 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\pion.h
+	"Paquet.h"
+	"Allegfct.h"
+	"Abstract_Case.h"
+
+1637566326 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\allegfct.cpp
+	"allegfct.h"
+
+1637566582 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\carte.cpp
+	"Paquet.h"
+	"Carte.h"
+	"Parme.h"
+	"Pperso.h"
+	"Ppiece.h"
+
+1637515999 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\parme.h
+	"Paquet.h"
+
+1637515946 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\pperso.h
+	"Paquet.h"
+
+1637515907 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\ppiece.h
+	"Paquet.h"
+
+1637566720 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\case_rouge.cpp
+	"Case_rouge.h"
+
+1637513782 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\case_rouge.h
+	"Abstract_Case.h"
+
+1637566820 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\case_telep.cpp
+	"Case_telep.h"
+
+1637513729 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\case_telep.h
+	"Abstract_Case.h"
+
+1637566857 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\case_verte.cpp
+	"Case_verte.h"
+
+1637513656 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\case_verte.h
+	"Abstract_Case.h"
+
+1637566889 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\caseneutre.cpp
+	"CaseNeutre.h"
+
+1637513604 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\caseneutre.h
+	"Paquet.h"
+	"Abstract_Case.h"
+
+1637567017 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\chrono.cpp
+	"Chrono.h"
+
+1637569866 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\chrono.h
+	"Allegfct.h"
+	"Outils.h"
+
+1637567272 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\clavier.cpp
+	"Clavier.h"
+
+1637567359 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\compte.cpp
+	"Compte.h"
+
+1637567386 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\de.cpp
+	"De.h"
+
+1637569980 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\de.h
+	"Paquet.h"
+	"Allegfct.h"
+
+1637567473 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\enquete.cpp
+	"Enquete.h"
+
+1637567613 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\enveloppe.cpp
+	"Enveloppe.h"
+
+1637570084 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\enveloppe.h
+	"Paquet.h"
+	"Pperso.h"
+	"Ppiece.h"
+	"Parme.h"
+	"Allegfct.h"
+
+1637567688 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\feuille_regles.cpp
+	"Feuille_regles.h"
+
+1637570115 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\feuille_regles.h
+	"Paquet.h"
+
+1637568040 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\hotel.cpp
+	"Hotel.h"
+
+1637570278 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\hotel.h
+	"Musiques.h"
+	"Allegfct.h"
+	"Souris.h"
+	"Outils.h"
+	"Compte.h"
+	"Plateau.h"
+	"Feuille_regles.h"
+	"Clavier.h"
+	"Abstract_Joueur.h"
+
+1637570340 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\musiques.h
+	"Paquet.h"
+
+1637570717 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\souris.h
+	"Paquet.h"
+
+1637570656 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\plateau.h
+	"Paquet.h"
+	"Enveloppe.h"
+	"Player.h"
+	"Ordi.h"
+	"Chrono.h"
+	"Allegfct.h"
+	"De.h"
+	"Abstract_Case.h"
+	"CaseNeutre.h"
+	"PieceAutre.h"
+	"PieceCoin.h"
+	"PieceCentre.h"
+	"Porte.h"
+	"Case_telep.h"
+	"Case_verte.h"
+	"Case_rouge.h"
+
+1637570687 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\player.h
+	"Paquet.h"
+	"Abstract_Joueur.h"
+
+1637570376 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\ordi.h
+	"Paquet.h"
+	"Abstract_Joueur.h"
+	"Abstract_Case.h"
+
+1637515389 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\pieceautre.h
+	"Abstract_Case.h"
+
+1637515289 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\piececoin.h
+	"Abstract_Case.h"
+
+1637515334 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\piececentre.h
+	"Abstract_Case.h"
+
+1637515481 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\porte.h
+	"Abstract_Case.h"
+
+1637516288 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\main.cpp
+	"Hotel.h"
+
+1637568093 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\mur.cpp
+	"Mur.h"
+
+1637568117 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\musiques.cpp
+	"Musiques.h"
+
+1637572140 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\ordi.cpp
+	"Ordi.h"
+
+1637568346 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\outils.cpp
+	"Outils.h"
+
+1637568431 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\paquet.cpp
+	"Paquet.h"
+
+1637568480 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\parme.cpp
+	"Parme.h"
+
+1637568543 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\pieceautre.cpp
+	"PieceAutre.h"
+
+1637568587 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\piececentre.cpp
+	"PieceCentre.h"
+
+1637568659 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\piececoin.cpp
+	"PieceCoin.h"
+
+1637568836 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\pion.cpp
+	"Pion.h"
+
+1637571916 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\player.cpp
+	"Player.h"
+
+1637569487 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\porte.cpp
+	"Porte.h"
+
+1637569529 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\pperso.cpp
+	"Pperso.h"
+
+1637569572 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\ppiece.cpp
+	"Ppiece.h"
+
+1637569627 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\souris.cpp
+	"Souris.h"
+
+1637571427 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_2\plateau.cpp
+	"Plateau.h"
+
+1637566142 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\abstract_case.cpp
+	"Abstract_Case.h"
+
+1637569709 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\abstract_case.h
+	"paquet.h"
+	"Mur.h"
+	"outils.h"
+
+1637570428 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\paquet.h
+	<iostream>
+	<time.h>
+	<stack>
+	<vector>
+	<map>
+	<fstream>
+	<allegro.h>
+	"Carte.h"
+	"Allegfct.h"
+
+1637569828 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\carte.h
+
+1637513361 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\allegfct.h
+	"Paquet.h"
+
+1637570291 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\mur.h
+	"Paquet.h"
+
+1637570407 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\outils.h
+	"Paquet.h"
+	"Allegfct.h"
+
+1637566133 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\abstract_joueur.cpp
+	"Abstract_Joueur.h"
+
+1637569780 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\abstract_joueur.h
+	"Paquet.h"
+	"Compte.h"
+	"Enquete.h"
+	"Clavier.h"
+	"Abstract_Case.h"
+	"Allegfct.h"
+	"Outils.h"
+	"Pion.h"
+
+1637569941 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\compte.h
+	"Paquet.h"
+
+1637570007 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\enquete.h
+	"Allegfct.h"
+
+1637569892 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\clavier.h
+	"Allegfct.h"
+	"Pion.h"
+
+1637618335 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\pion.h
+	"Paquet.h"
+	"Allegfct.h"
+	"Abstract_Case.h"
+
+1637566326 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\allegfct.cpp
+	"allegfct.h"
+
+1637566582 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\carte.cpp
+	"Paquet.h"
+	"Carte.h"
+	"Parme.h"
+	"Pperso.h"
+	"Ppiece.h"
+
+1637515999 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\parme.h
+	"Paquet.h"
+
+1637515946 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\pperso.h
+	"Paquet.h"
+
+1637515907 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\ppiece.h
+	"Paquet.h"
+
+1637566720 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\case_rouge.cpp
+	"Case_rouge.h"
+
+1637513782 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\case_rouge.h
+	"Abstract_Case.h"
+
+1637566820 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\case_telep.cpp
+	"Case_telep.h"
+
+1637513729 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\case_telep.h
+	"Abstract_Case.h"
+
+1637566857 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\case_verte.cpp
+	"Case_verte.h"
+
+1637513656 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\case_verte.h
+	"Abstract_Case.h"
+
+1637566889 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\caseneutre.cpp
+	"CaseNeutre.h"
+
+1637513604 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\caseneutre.h
+	"Paquet.h"
+	"Abstract_Case.h"
+
+1637567017 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\chrono.cpp
+	"Chrono.h"
+
+1637569866 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\chrono.h
+	"Allegfct.h"
+	"Outils.h"
+
+1637567272 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\clavier.cpp
+	"Clavier.h"
+
+1637567359 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\compte.cpp
+	"Compte.h"
+
+1637567386 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\de.cpp
+	"De.h"
+
+1637569980 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\de.h
+	"Paquet.h"
+	"Allegfct.h"
+
+1637567473 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\enquete.cpp
+	"Enquete.h"
+
+1637567613 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\enveloppe.cpp
+	"Enveloppe.h"
+
+1637570084 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\enveloppe.h
+	"Paquet.h"
+	"Pperso.h"
+	"Ppiece.h"
+	"Parme.h"
+	"Allegfct.h"
+
+1637567688 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\feuille_regles.cpp
+	"Feuille_regles.h"
+
+1637570115 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\feuille_regles.h
+	"Paquet.h"
+
+1637568040 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\hotel.cpp
+	"Hotel.h"
+
+1637570278 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\hotel.h
+	"Musiques.h"
+	"Allegfct.h"
+	"Souris.h"
+	"Outils.h"
+	"Compte.h"
+	"Plateau.h"
+	"Feuille_regles.h"
+	"Clavier.h"
+	"Abstract_Joueur.h"
+
+1637570340 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\musiques.h
+	"Paquet.h"
+
+1637570717 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\souris.h
+	"Paquet.h"
+
+1637570656 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\plateau.h
+	"Paquet.h"
+	"Enveloppe.h"
+	"Player.h"
+	"Ordi.h"
+	"Chrono.h"
+	"Allegfct.h"
+	"De.h"
+	"Abstract_Case.h"
+	"CaseNeutre.h"
+	"PieceAutre.h"
+	"PieceCoin.h"
+	"PieceCentre.h"
+	"Porte.h"
+	"Case_telep.h"
+	"Case_verte.h"
+	"Case_rouge.h"
+
+1637570687 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\player.h
+	"Paquet.h"
+	"Abstract_Joueur.h"
+
+1637570376 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\ordi.h
+	"Paquet.h"
+	"Abstract_Joueur.h"
+	"Abstract_Case.h"
+
+1637515389 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\pieceautre.h
+	"Abstract_Case.h"
+
+1637515289 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\piececoin.h
+	"Abstract_Case.h"
+
+1637515334 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\piececentre.h
+	"Abstract_Case.h"
+
+1637515481 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\porte.h
+	"Abstract_Case.h"
+
+1637516288 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\main.cpp
+	"Hotel.h"
+
+1637568093 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\mur.cpp
+	"Mur.h"
+
+1637568117 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\musiques.cpp
+	"Musiques.h"
+
+1637568346 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\outils.cpp
+	"Outils.h"
+
+1637568431 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\paquet.cpp
+	"Paquet.h"
+
+1637568480 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\parme.cpp
+	"Parme.h"
+
+1637568543 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\pieceautre.cpp
+	"PieceAutre.h"
+
+1637568587 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\piececentre.cpp
+	"PieceCentre.h"
+
+1637568659 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\piececoin.cpp
+	"PieceCoin.h"
+
+1637571916 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\player.cpp
+	"Player.h"
+
+1637616496 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\porte.cpp
+	"Porte.h"
+
+1637569529 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\pperso.cpp
+	"Pperso.h"
+
+1637569572 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\ppiece.cpp
+	"Ppiece.h"
+
+1637569627 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\souris.cpp
+	"Souris.h"
+
+1637572533 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\ordi.cpp
+	"Ordi.h"
+
+1637617238 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\plateau.cpp
+	"Plateau.h"
+
+1637616429 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo22_3\pion.cpp
+	"Pion.h"
+
+1637697408 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\abstract_case.cpp
+	"Abstract_Case.h"
+
+1637695607 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\abstract_case.h
+	"paquet.h"
+	"Mur.h"
+	"outils.h"
+
+1637666095 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\paquet.h
+	<iostream>
+	<time.h>
+	<stack>
+	<vector>
+	<map>
+	<fstream>
+	<allegro.h>
+	"Carte.h"
+	"Allegfct.h"
+
+1637667369 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\carte.h
+
+1637667817 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\allegfct.h
+	"Paquet.h"
+
+1637570291 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\mur.h
+	"Paquet.h"
+
+1637570407 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\outils.h
+	"Paquet.h"
+	"Allegfct.h"
+
+1637700548 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\abstract_joueur.cpp
+	"Abstract_Joueur.h"
+
+1637700506 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\abstract_joueur.h
+	"Paquet.h"
+	"Compte.h"
+	"Enquete.h"
+	"Clavier.h"
+	"Abstract_Case.h"
+	"Allegfct.h"
+	"Outils.h"
+	"Pion.h"
+
+1637569941 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\compte.h
+	"Paquet.h"
+
+1637570007 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\enquete.h
+	"Allegfct.h"
+
+1637700126 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\clavier.h
+	"Allegfct.h"
+	"Pion.h"
+
+1637618335 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\pion.h
+	"Paquet.h"
+	"Allegfct.h"
+	"Abstract_Case.h"
+
+1637700155 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\allegfct.cpp
+	"allegfct.h"
+
+1637688973 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\carte.cpp
+	"Paquet.h"
+	"Carte.h"
+	"Parme.h"
+	"Pperso.h"
+	"Ppiece.h"
+
+1637515999 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\parme.h
+	"Paquet.h"
+
+1637515946 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\pperso.h
+	"Paquet.h"
+
+1637515907 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\ppiece.h
+	"Paquet.h"
+
+1637664156 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\case_rouge.cpp
+	"Case_rouge.h"
+
+1637513782 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\case_rouge.h
+	"Abstract_Case.h"
+
+1637664169 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\case_telep.cpp
+	"Case_telep.h"
+
+1637513729 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\case_telep.h
+	"Abstract_Case.h"
+
+1637664175 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\case_verte.cpp
+	"Case_verte.h"
+
+1637513656 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\case_verte.h
+	"Abstract_Case.h"
+
+1637664197 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\caseneutre.cpp
+	"CaseNeutre.h"
+
+1637513604 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\caseneutre.h
+	"Paquet.h"
+	"Abstract_Case.h"
+
+1637567017 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\chrono.cpp
+	"Chrono.h"
+
+1637569866 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\chrono.h
+	"Allegfct.h"
+	"Outils.h"
+
+1637700098 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\clavier.cpp
+	"Clavier.h"
+
+1637567359 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\compte.cpp
+	"Compte.h"
+
+1637690657 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\de.cpp
+	"De.h"
+
+1637569980 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\de.h
+	"Paquet.h"
+	"Allegfct.h"
+
+1637664418 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\enquete.cpp
+	"Enquete.h"
+
+1637695403 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\enveloppe.cpp
+	"Enveloppe.h"
+
+1637570084 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\enveloppe.h
+	"Paquet.h"
+	"Pperso.h"
+	"Ppiece.h"
+	"Parme.h"
+	"Allegfct.h"
+
+1637567688 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\feuille_regles.cpp
+	"Feuille_regles.h"
+
+1637570115 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\feuille_regles.h
+	"Paquet.h"
+
+1637700349 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\hotel.cpp
+	"Hotel.h"
+
+1637699247 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\hotel.h
+	"Musiques.h"
+	"Allegfct.h"
+	"Souris.h"
+	"Outils.h"
+	"Compte.h"
+	"Plateau.h"
+	"Feuille_regles.h"
+	"Clavier.h"
+	"Abstract_Joueur.h"
+
+1637570340 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\musiques.h
+	"Paquet.h"
+
+1637570717 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\souris.h
+	"Paquet.h"
+
+1637700290 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\plateau.h
+	"Paquet.h"
+	"Enveloppe.h"
+	"Player.h"
+	"Ordi.h"
+	"Chrono.h"
+	"Allegfct.h"
+	"De.h"
+	"Abstract_Case.h"
+	"CaseNeutre.h"
+	"PieceAutre.h"
+	"PieceCoin.h"
+	"PieceCentre.h"
+	"Porte.h"
+	"Case_telep.h"
+	"Case_verte.h"
+	"Case_rouge.h"
+
+1637570687 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\player.h
+	"Paquet.h"
+	"Abstract_Joueur.h"
+
+1637570376 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\ordi.h
+	"Paquet.h"
+	"Abstract_Joueur.h"
+	"Abstract_Case.h"
+
+1637515389 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\pieceautre.h
+	"Abstract_Case.h"
+
+1637515289 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\piececoin.h
+	"Abstract_Case.h"
+
+1637515334 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\piececentre.h
+	"Abstract_Case.h"
+
+1637515481 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\porte.h
+	"Abstract_Case.h"
+
+1637699605 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\main.cpp
+	"Hotel.h"
+
+1637568093 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\mur.cpp
+	"Mur.h"
+
+1637667038 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\musiques.cpp
+	"Musiques.h"
+
+1637665947 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\ordi.cpp
+	"Ordi.h"
+
+1637695423 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\outils.cpp
+	"Outils.h"
+
+1637666177 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\paquet.cpp
+	"Paquet.h"
+
+1637666166 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\parme.cpp
+	"Parme.h"
+
+1637664273 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\pieceautre.cpp
+	"PieceAutre.h"
+
+1637664280 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\piececentre.cpp
+	"PieceCentre.h"
+
+1637664285 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\piececoin.cpp
+	"PieceCoin.h"
+
+1637667199 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\pion.cpp
+	"Pion.h"
+
+1637665949 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\player.cpp
+	"Player.h"
+
+1637664295 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\porte.cpp
+	"Porte.h"
+
+1637666219 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\pperso.cpp
+	"Pperso.h"
+
+1637666219 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\ppiece.cpp
+	"Ppiece.h"
+
+1637688793 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\souris.cpp
+	"Souris.h"
+
+1637700370 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_1\plateau.cpp
+	"Plateau.h"
+
+1637697408 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\abstract_case.cpp
+	"Abstract_Case.h"
+
+1637695607 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\abstract_case.h
+	"paquet.h"
+	"Mur.h"
+	"outils.h"
+
+1637666095 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\paquet.h
+	<iostream>
+	<time.h>
+	<stack>
+	<vector>
+	<map>
+	<fstream>
+	<allegro.h>
+	"Carte.h"
+	"Allegfct.h"
+
+1637667369 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\carte.h
+
+1637667817 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\allegfct.h
+	"Paquet.h"
+
+1637570291 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\mur.h
+	"Paquet.h"
+
+1637701437 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\outils.h
+	"Paquet.h"
+	"Allegfct.h"
+
+1637701688 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\abstract_joueur.cpp
+	"Abstract_Joueur.h"
+
+1637700506 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\abstract_joueur.h
+	"Paquet.h"
+	"Compte.h"
+	"Enquete.h"
+	"Clavier.h"
+	"Abstract_Case.h"
+	"Allegfct.h"
+	"Outils.h"
+	"Pion.h"
+
+1637569941 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\compte.h
+	"Paquet.h"
+
+1637570007 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\enquete.h
+	"Allegfct.h"
+
+1637700126 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\clavier.h
+	"Allegfct.h"
+	"Pion.h"
+
+1637618335 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\pion.h
+	"Paquet.h"
+	"Allegfct.h"
+	"Abstract_Case.h"
+
+1637701665 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\allegfct.cpp
+	"allegfct.h"
+
+1637701723 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\carte.cpp
+	"Paquet.h"
+	"Carte.h"
+	"Parme.h"
+	"Pperso.h"
+	"Ppiece.h"
+
+1637515999 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\parme.h
+	"Paquet.h"
+
+1637515946 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\pperso.h
+	"Paquet.h"
+
+1637515907 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\ppiece.h
+	"Paquet.h"
+
+1637664156 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\case_rouge.cpp
+	"Case_rouge.h"
+
+1637513782 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\case_rouge.h
+	"Abstract_Case.h"
+
+1637664169 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\case_telep.cpp
+	"Case_telep.h"
+
+1637513729 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\case_telep.h
+	"Abstract_Case.h"
+
+1637664175 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\case_verte.cpp
+	"Case_verte.h"
+
+1637513656 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\case_verte.h
+	"Abstract_Case.h"
+
+1637664197 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\caseneutre.cpp
+	"CaseNeutre.h"
+
+1637513604 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\caseneutre.h
+	"Paquet.h"
+	"Abstract_Case.h"
+
+1637567017 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\chrono.cpp
+	"Chrono.h"
+
+1637569866 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\chrono.h
+	"Allegfct.h"
+	"Outils.h"
+
+1637700098 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\clavier.cpp
+	"Clavier.h"
+
+1637567359 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\compte.cpp
+	"Compte.h"
+
+1637701390 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\de.cpp
+	"De.h"
+
+1637701369 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\de.h
+	"Paquet.h"
+	"Allegfct.h"
+
+1637664418 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\enquete.cpp
+	"Enquete.h"
+
+1637701301 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\enveloppe.cpp
+	"Enveloppe.h"
+
+1637701267 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\enveloppe.h
+	"Paquet.h"
+	"Pperso.h"
+	"Ppiece.h"
+	"Parme.h"
+	"Allegfct.h"
+
+1637567688 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\feuille_regles.cpp
+	"Feuille_regles.h"
+
+1637570115 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\feuille_regles.h
+	"Paquet.h"
+
+1637701593 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\main.cpp
+	"Hotel.h"
+
+1637699247 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\hotel.h
+	"Musiques.h"
+	"Allegfct.h"
+	"Souris.h"
+	"Outils.h"
+	"Compte.h"
+	"Plateau.h"
+	"Feuille_regles.h"
+	"Clavier.h"
+	"Abstract_Joueur.h"
+
+1637700981 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\musiques.h
+	"Paquet.h"
+
+1637700902 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\souris.h
+	"Paquet.h"
+
+1637700290 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\plateau.h
+	"Paquet.h"
+	"Enveloppe.h"
+	"Player.h"
+	"Ordi.h"
+	"Chrono.h"
+	"Allegfct.h"
+	"De.h"
+	"Abstract_Case.h"
+	"CaseNeutre.h"
+	"PieceAutre.h"
+	"PieceCoin.h"
+	"PieceCentre.h"
+	"Porte.h"
+	"Case_telep.h"
+	"Case_verte.h"
+	"Case_rouge.h"
+
+1637570687 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\player.h
+	"Paquet.h"
+	"Abstract_Joueur.h"
+
+1637570376 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\ordi.h
+	"Paquet.h"
+	"Abstract_Joueur.h"
+	"Abstract_Case.h"
+
+1637515389 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\pieceautre.h
+	"Abstract_Case.h"
+
+1637515289 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\piececoin.h
+	"Abstract_Case.h"
+
+1637515334 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\piececentre.h
+	"Abstract_Case.h"
+
+1637515481 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\porte.h
+	"Abstract_Case.h"
+
+1637568093 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\mur.cpp
+	"Mur.h"
+
+1637701040 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\musiques.cpp
+	"Musiques.h"
+
+1637665947 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\ordi.cpp
+	"Ordi.h"
+
+1637701618 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\outils.cpp
+	"Outils.h"
+
+1637666177 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\paquet.cpp
+	"Paquet.h"
+
+1637666166 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\parme.cpp
+	"Parme.h"
+
+1637664273 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\pieceautre.cpp
+	"PieceAutre.h"
+
+1637664280 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\piececentre.cpp
+	"PieceCentre.h"
+
+1637664285 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\piececoin.cpp
+	"PieceCoin.h"
+
+1637667199 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\pion.cpp
+	"Pion.h"
+
+1637702092 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\plateau.cpp
+	"Plateau.h"
+
+1637665949 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\player.cpp
+	"Player.h"
+
+1637664295 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\porte.cpp
+	"Porte.h"
+
+1637666219 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\pperso.cpp
+	"Pperso.h"
+
+1637666219 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\ppiece.cpp
+	"Ppiece.h"
+
+1637701001 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\souris.cpp
+	"Souris.h"
+
+1637702397 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo23_2\hotel.cpp
+	"Hotel.h"
+
+1637697408 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\abstract_case.cpp
+	"Abstract_Case.h"
+
+1637695607 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\abstract_case.h
+	"paquet.h"
+	"Mur.h"
+	"outils.h"
+
+1637666095 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\paquet.h
+	<iostream>
+	<time.h>
+	<stack>
+	<vector>
+	<map>
+	<fstream>
+	<allegro.h>
+	"Carte.h"
+	"Allegfct.h"
+
+1637667369 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\carte.h
+
+1637667817 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\allegfct.h
+	"Paquet.h"
+
+1637570291 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\mur.h
+	"Paquet.h"
+
+1637701437 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\outils.h
+	"Paquet.h"
+	"Allegfct.h"
+
+1637739413 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\abstract_joueur.cpp
+	"Abstract_Joueur.h"
+
+1637739434 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\abstract_joueur.h
+	"Paquet.h"
+	"Compte.h"
+	"Enquete.h"
+	"Clavier.h"
+	"Abstract_Case.h"
+	"Allegfct.h"
+	"Outils.h"
+	"Pion.h"
+
+1637569941 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\compte.h
+	"Paquet.h"
+
+1637570007 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\enquete.h
+	"Allegfct.h"
+
+1637700126 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\clavier.h
+	"Allegfct.h"
+	"Pion.h"
+
+1637740542 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\pion.h
+	"Paquet.h"
+	"Allegfct.h"
+	"Abstract_Case.h"
+
+1637701665 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\allegfct.cpp
+	"allegfct.h"
+
+1637701723 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\carte.cpp
+	"Paquet.h"
+	"Carte.h"
+	"Parme.h"
+	"Pperso.h"
+	"Ppiece.h"
+
+1637515999 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\parme.h
+	"Paquet.h"
+
+1637515946 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\pperso.h
+	"Paquet.h"
+
+1637515907 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\ppiece.h
+	"Paquet.h"
+
+1637664156 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\case_rouge.cpp
+	"Case_rouge.h"
+
+1637513782 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\case_rouge.h
+	"Abstract_Case.h"
+
+1637664169 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\case_telep.cpp
+	"Case_telep.h"
+
+1637513729 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\case_telep.h
+	"Abstract_Case.h"
+
+1637664175 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\case_verte.cpp
+	"Case_verte.h"
+
+1637513656 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\case_verte.h
+	"Abstract_Case.h"
+
+1637664197 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\caseneutre.cpp
+	"CaseNeutre.h"
+
+1637513604 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\caseneutre.h
+	"Paquet.h"
+	"Abstract_Case.h"
+
+1637567017 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\chrono.cpp
+	"Chrono.h"
+
+1637569866 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\chrono.h
+	"Allegfct.h"
+	"Outils.h"
+
+1637700098 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\clavier.cpp
+	"Clavier.h"
+
+1637567359 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\compte.cpp
+	"Compte.h"
+
+1637701390 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\de.cpp
+	"De.h"
+
+1637701369 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\de.h
+	"Paquet.h"
+	"Allegfct.h"
+
+1637702474 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\enquete.cpp
+	"Enquete.h"
+
+1637701301 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\enveloppe.cpp
+	"Enveloppe.h"
+
+1637701267 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\enveloppe.h
+	"Paquet.h"
+	"Pperso.h"
+	"Ppiece.h"
+	"Parme.h"
+	"Allegfct.h"
+
+1637567688 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\feuille_regles.cpp
+	"Feuille_regles.h"
+
+1637570115 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\feuille_regles.h
+	"Paquet.h"
+
+1637739086 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\hotel.cpp
+	"Hotel.h"
+
+1637699247 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\hotel.h
+	"Musiques.h"
+	"Allegfct.h"
+	"Souris.h"
+	"Outils.h"
+	"Compte.h"
+	"Plateau.h"
+	"Feuille_regles.h"
+	"Clavier.h"
+	"Abstract_Joueur.h"
+
+1637700981 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\musiques.h
+	"Paquet.h"
+
+1637700902 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\souris.h
+	"Paquet.h"
+
+1637700290 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\plateau.h
+	"Paquet.h"
+	"Enveloppe.h"
+	"Player.h"
+	"Ordi.h"
+	"Chrono.h"
+	"Allegfct.h"
+	"De.h"
+	"Abstract_Case.h"
+	"CaseNeutre.h"
+	"PieceAutre.h"
+	"PieceCoin.h"
+	"PieceCentre.h"
+	"Porte.h"
+	"Case_telep.h"
+	"Case_verte.h"
+	"Case_rouge.h"
+
+1637570687 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\player.h
+	"Paquet.h"
+	"Abstract_Joueur.h"
+
+1637570376 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\ordi.h
+	"Paquet.h"
+	"Abstract_Joueur.h"
+	"Abstract_Case.h"
+
+1637515389 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\pieceautre.h
+	"Abstract_Case.h"
+
+1637515289 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\piececoin.h
+	"Abstract_Case.h"
+
+1637515334 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\piececentre.h
+	"Abstract_Case.h"
+
+1637515481 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\porte.h
+	"Abstract_Case.h"
+
+1637701593 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\main.cpp
+	"Hotel.h"
+
+1637568093 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\mur.cpp
+	"Mur.h"
+
+1637701040 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\musiques.cpp
+	"Musiques.h"
+
+1637740978 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\ordi.cpp
+	"Ordi.h"
+
+1637701618 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\outils.cpp
+	"Outils.h"
+
+1637666177 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\paquet.cpp
+	"Paquet.h"
+
+1637666166 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\parme.cpp
+	"Parme.h"
+
+1637664273 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\pieceautre.cpp
+	"PieceAutre.h"
+
+1637664280 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\piececentre.cpp
+	"PieceCentre.h"
+
+1637664285 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\piececoin.cpp
+	"PieceCoin.h"
+
+1637740542 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\pion.cpp
+	"Pion.h"
+
+1637740919 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\player.cpp
+	"Player.h"
+
+1637664295 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\porte.cpp
+	"Porte.h"
+
+1637666219 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\pperso.cpp
+	"Pperso.h"
+
+1637666219 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\ppiece.cpp
+	"Ppiece.h"
+
+1637701001 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\souris.cpp
+	"Souris.h"
+
+1637739183 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_1\plateau.cpp
+	"Plateau.h"
+
+1637697408 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\abstract_case.cpp
+	"Abstract_Case.h"
+
+1637695607 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\abstract_case.h
+	"paquet.h"
+	"Mur.h"
+	"outils.h"
+
+1637666095 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\paquet.h
+	<iostream>
+	<time.h>
+	<stack>
+	<vector>
+	<map>
+	<fstream>
+	<allegro.h>
+	"Carte.h"
+	"Allegfct.h"
+
+1637667369 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\carte.h
+
+1637772694 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\allegfct.h
+	"Paquet.h"
+
+1637570291 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\mur.h
+	"Paquet.h"
+
+1637701437 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\outils.h
+	"Paquet.h"
+	"Allegfct.h"
+
+1637739413 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\abstract_joueur.cpp
+	"Abstract_Joueur.h"
+
+1637739434 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\abstract_joueur.h
+	"Paquet.h"
+	"Compte.h"
+	"Enquete.h"
+	"Clavier.h"
+	"Abstract_Case.h"
+	"Allegfct.h"
+	"Outils.h"
+	"Pion.h"
+
+1637569941 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\compte.h
+	"Paquet.h"
+
+1637570007 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\enquete.h
+	"Allegfct.h"
+
+1637700126 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\clavier.h
+	"Allegfct.h"
+	"Pion.h"
+
+1637740542 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\pion.h
+	"Paquet.h"
+	"Allegfct.h"
+	"Abstract_Case.h"
+
+1637771131 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\allegfct.cpp
+	"allegfct.h"
+
+1637701723 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\carte.cpp
+	"Paquet.h"
+	"Carte.h"
+	"Parme.h"
+	"Pperso.h"
+	"Ppiece.h"
+
+1637515999 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\parme.h
+	"Paquet.h"
+
+1637515946 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\pperso.h
+	"Paquet.h"
+
+1637515907 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\ppiece.h
+	"Paquet.h"
+
+1637664156 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\case_rouge.cpp
+	"Case_rouge.h"
+
+1637513782 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\case_rouge.h
+	"Abstract_Case.h"
+
+1637664169 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\case_telep.cpp
+	"Case_telep.h"
+
+1637513729 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\case_telep.h
+	"Abstract_Case.h"
+
+1637664175 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\case_verte.cpp
+	"Case_verte.h"
+
+1637513656 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\case_verte.h
+	"Abstract_Case.h"
+
+1637664197 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\caseneutre.cpp
+	"CaseNeutre.h"
+
+1637513604 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\caseneutre.h
+	"Paquet.h"
+	"Abstract_Case.h"
+
+1637567017 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\chrono.cpp
+	"Chrono.h"
+
+1637569866 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\chrono.h
+	"Allegfct.h"
+	"Outils.h"
+
+1637700098 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\clavier.cpp
+	"Clavier.h"
+
+1637567359 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\compte.cpp
+	"Compte.h"
+
+1637701390 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\de.cpp
+	"De.h"
+
+1637701369 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\de.h
+	"Paquet.h"
+	"Allegfct.h"
+
+1637702474 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\enquete.cpp
+	"Enquete.h"
+
+1637701301 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\enveloppe.cpp
+	"Enveloppe.h"
+
+1637701267 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\enveloppe.h
+	"Paquet.h"
+	"Pperso.h"
+	"Ppiece.h"
+	"Parme.h"
+	"Allegfct.h"
+
+1637567688 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\feuille_regles.cpp
+	"Feuille_regles.h"
+
+1637570115 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\feuille_regles.h
+	"Paquet.h"
+
+1637739086 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\hotel.cpp
+	"Hotel.h"
+
+1637699247 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\hotel.h
+	"Musiques.h"
+	"Allegfct.h"
+	"Souris.h"
+	"Outils.h"
+	"Compte.h"
+	"Plateau.h"
+	"Feuille_regles.h"
+	"Clavier.h"
+	"Abstract_Joueur.h"
+
+1637700981 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\musiques.h
+	"Paquet.h"
+
+1637700902 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\souris.h
+	"Paquet.h"
+
+1637700290 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\plateau.h
+	"Paquet.h"
+	"Enveloppe.h"
+	"Player.h"
+	"Ordi.h"
+	"Chrono.h"
+	"Allegfct.h"
+	"De.h"
+	"Abstract_Case.h"
+	"CaseNeutre.h"
+	"PieceAutre.h"
+	"PieceCoin.h"
+	"PieceCentre.h"
+	"Porte.h"
+	"Case_telep.h"
+	"Case_verte.h"
+	"Case_rouge.h"
+
+1637570687 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\player.h
+	"Paquet.h"
+	"Abstract_Joueur.h"
+
+1637570376 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\ordi.h
+	"Paquet.h"
+	"Abstract_Joueur.h"
+	"Abstract_Case.h"
+
+1637515389 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\pieceautre.h
+	"Abstract_Case.h"
+
+1637515289 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\piececoin.h
+	"Abstract_Case.h"
+
+1637515334 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\piececentre.h
+	"Abstract_Case.h"
+
+1637515481 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\porte.h
+	"Abstract_Case.h"
+
+1637701593 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\main.cpp
+	"Hotel.h"
+
+1637568093 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\mur.cpp
+	"Mur.h"
+
+1637701040 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\musiques.cpp
+	"Musiques.h"
+
+1637740978 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\ordi.cpp
+	"Ordi.h"
+
+1637701618 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\outils.cpp
+	"Outils.h"
+
+1637666177 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\paquet.cpp
+	"Paquet.h"
+
+1637666166 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\parme.cpp
+	"Parme.h"
+
+1637664273 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\pieceautre.cpp
+	"PieceAutre.h"
+
+1637664280 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\piececentre.cpp
+	"PieceCentre.h"
+
+1637664285 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\piececoin.cpp
+	"PieceCoin.h"
+
+1637763948 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\pion.cpp
+	"Pion.h"
+
+1637740919 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\player.cpp
+	"Player.h"
+
+1637763601 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\porte.cpp
+	"Porte.h"
+
+1637666219 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\pperso.cpp
+	"Pperso.h"
+
+1637666219 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\ppiece.cpp
+	"Ppiece.h"
+
+1637701001 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\souris.cpp
+	"Souris.h"
+
+1637772487 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo24_2\plateau.cpp
+	"Plateau.h"
+
+1637697408 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\abstract_case.cpp
+	"Abstract_Case.h"
+
+1637695607 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\abstract_case.h
+	"paquet.h"
+	"Mur.h"
+	"outils.h"
+
+1637666095 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\paquet.h
+	<iostream>
+	<time.h>
+	<stack>
+	<vector>
+	<map>
+	<fstream>
+	<allegro.h>
+	"Carte.h"
+	"Allegfct.h"
+
+1637667369 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\carte.h
+
+1637772694 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\allegfct.h
+	"Paquet.h"
+
+1637570291 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\mur.h
+	"Paquet.h"
+
+1637701437 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\outils.h
+	"Paquet.h"
+	"Allegfct.h"
+
+1638009417 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\abstract_joueur.cpp
+	"Abstract_Joueur.h"
+
+1638009283 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\abstract_joueur.h
+	"Paquet.h"
+	"Compte.h"
+	"Enquete.h"
+	"Clavier.h"
+	"Abstract_Case.h"
+	"Allegfct.h"
+	"Outils.h"
+	"Pion.h"
+	"Enveloppe.h"
+
+1637569941 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\compte.h
+	"Paquet.h"
+
+1637570007 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\enquete.h
+	"Allegfct.h"
+
+1637700126 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\clavier.h
+	"Allegfct.h"
+	"Pion.h"
+
+1637740542 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\pion.h
+	"Paquet.h"
+	"Allegfct.h"
+	"Abstract_Case.h"
+
+1638003668 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\allegfct.cpp
+	"allegfct.h"
+
+1637701723 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\carte.cpp
+	"Paquet.h"
+	"Carte.h"
+	"Parme.h"
+	"Pperso.h"
+	"Ppiece.h"
+
+1637515999 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\parme.h
+	"Paquet.h"
+
+1637515946 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\pperso.h
+	"Paquet.h"
+
+1637515907 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\ppiece.h
+	"Paquet.h"
+
+1637664156 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\case_rouge.cpp
+	"Case_rouge.h"
+
+1637513782 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\case_rouge.h
+	"Abstract_Case.h"
+
+1637664175 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\case_verte.cpp
+	"Case_verte.h"
+
+1637513656 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\case_verte.h
+	"Abstract_Case.h"
+
+1637664197 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\caseneutre.cpp
+	"CaseNeutre.h"
+
+1637513604 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\caseneutre.h
+	"Paquet.h"
+	"Abstract_Case.h"
+
+1637567017 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\chrono.cpp
+	"Chrono.h"
+
+1638011475 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\chrono.h
+	"Allegfct.h"
+	"Outils.h"
+
+1637700098 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\clavier.cpp
+	"Clavier.h"
+
+1637567359 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\compte.cpp
+	"Compte.h"
+
+1637701390 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\de.cpp
+	"De.h"
+
+1637701369 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\de.h
+	"Paquet.h"
+	"Allegfct.h"
+
+1637702474 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\enquete.cpp
+	"Enquete.h"
+
+1637701301 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\enveloppe.cpp
+	"Enveloppe.h"
+
+1637701267 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\enveloppe.h
+	"Paquet.h"
+	"Pperso.h"
+	"Ppiece.h"
+	"Parme.h"
+	"Allegfct.h"
+
+1637567688 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\feuille_regles.cpp
+	"Feuille_regles.h"
+
+1637570115 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\feuille_regles.h
+	"Paquet.h"
+
+1638009586 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\hotel.cpp
+	"Hotel.h"
+
+1638008959 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\hotel.h
+	"Musiques.h"
+	"Allegfct.h"
+	"Souris.h"
+	"Outils.h"
+	"Compte.h"
+	"Plateau.h"
+	"Feuille_regles.h"
+	"Clavier.h"
+	"Abstract_Joueur.h"
+
+1637700981 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\musiques.h
+	"Paquet.h"
+
+1637700902 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\souris.h
+	"Paquet.h"
+
+1637700290 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\plateau.h
+	"Paquet.h"
+	"Enveloppe.h"
+	"Player.h"
+	"Ordi.h"
+	"Chrono.h"
+	"Allegfct.h"
+	"De.h"
+	"Abstract_Case.h"
+	"CaseNeutre.h"
+	"PieceAutre.h"
+	"PieceCoin.h"
+	"PieceCentre.h"
+	"Porte.h"
+	"Case_telep.h"
+	"Case_verte.h"
+	"Case_rouge.h"
+
+1638002886 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\player.h
+	"Paquet.h"
+	"Abstract_Joueur.h"
+
+1638002890 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\ordi.h
+	"Paquet.h"
+	"Abstract_Joueur.h"
+	"Abstract_Case.h"
+
+1637515389 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\pieceautre.h
+	"Abstract_Case.h"
+
+1637515289 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\piececoin.h
+	"Abstract_Case.h"
+
+1637515334 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\piececentre.h
+	"Abstract_Case.h"
+
+1637515481 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\porte.h
+	"Abstract_Case.h"
+
+1637513729 c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\case_telep.h
+	"Abstract_Case.h"
+
+1637701593 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\main.cpp
+	"Hotel.h"
+
+1637568093 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\mur.cpp
+	"Mur.h"
+
+1637701040 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\musiques.cpp
+	"Musiques.h"
+
+1638006658 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\ordi.cpp
+	"Ordi.h"
+
+1637701618 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\outils.cpp
+	"Outils.h"
+
+1637666177 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\paquet.cpp
+	"Paquet.h"
+
+1637666166 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\parme.cpp
+	"Parme.h"
+
+1637664273 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\pieceautre.cpp
+	"PieceAutre.h"
+
+1637664280 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\piececentre.cpp
+	"PieceCentre.h"
+
+1637664285 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\piececoin.cpp
+	"PieceCoin.h"
+
+1638002148 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\pion.cpp
+	"Pion.h"
+
+1638012015 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\plateau.cpp
+	"Plateau.h"
+
+1638009960 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\player.cpp
+	"Player.h"
+
+1637763601 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\porte.cpp
+	"Porte.h"
+
+1637666219 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\pperso.cpp
+	"Pperso.h"
+
+1637666219 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\ppiece.cpp
+	"Ppiece.h"
+
+1637701001 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\souris.cpp
+	"Souris.h"
+
+1638001912 source:c:\users\samue\documents\travail\ing2\informatique\projet1\final_version\cluedo27_1\case_telep.cpp
+	"Case_telep.h"
+
+1638017427 source:c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\abstract_case.cpp
+	"Abstract_Case.h"
+
+1638017427 c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\abstract_case.h
+	"paquet.h"
+	"Mur.h"
+	"outils.h"
+
+1638017428 c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\paquet.h
+	<iostream>
+	<time.h>
+	<stack>
+	<vector>
+	<map>
+	<fstream>
+	<allegro.h>
+	"Carte.h"
+	"Allegfct.h"
+
+1638017427 c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\carte.h
+
+1638017427 c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\allegfct.h
+	"Paquet.h"
+
+1638017428 c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\mur.h
+	"Paquet.h"
+
+1638017428 c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\outils.h
+	"Paquet.h"
+	"Allegfct.h"
+
+1638017427 source:c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\abstract_joueur.cpp
+	"Abstract_Joueur.h"
+
+1638017427 c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\abstract_joueur.h
+	"Paquet.h"
+	"Compte.h"
+	"Enquete.h"
+	"Clavier.h"
+	"Abstract_Case.h"
+	"Allegfct.h"
+	"Outils.h"
+	"Pion.h"
+	"Enveloppe.h"
+
+1638017428 c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\compte.h
+	"Paquet.h"
+
+1638017428 c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\enquete.h
+	"Allegfct.h"
+
+1638017427 c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\clavier.h
+	"Allegfct.h"
+	"Pion.h"
+
+1638017428 c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\pion.h
+	"Paquet.h"
+	"Allegfct.h"
+	"Abstract_Case.h"
+
+1638017428 c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\enveloppe.h
+	"Paquet.h"
+	"Pperso.h"
+	"Ppiece.h"
+	"Parme.h"
+	"Allegfct.h"
+
+1638017428 c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\pperso.h
+	"Paquet.h"
+
+1638017429 c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\ppiece.h
+	"Paquet.h"
+
+1638017428 c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\parme.h
+	"Paquet.h"
+
+1638017427 source:c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\allegfct.cpp
+	"allegfct.h"
+
+1638017427 source:c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\carte.cpp
+	"Paquet.h"
+	"Carte.h"
+	"Parme.h"
+	"Pperso.h"
+	"Ppiece.h"
+
+1638017427 source:c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\case_rouge.cpp
+	"Case_rouge.h"
+
+1638017427 c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\case_rouge.h
+	"Abstract_Case.h"
+
+1638017427 source:c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\case_telep.cpp
+	"Case_telep.h"
+
+1638017427 c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\case_telep.h
+	"Abstract_Case.h"
+
+1638017427 source:c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\case_verte.cpp
+	"Case_verte.h"
+
+1638017427 c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\case_verte.h
+	"Abstract_Case.h"
+
+1638017427 source:c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\caseneutre.cpp
+	"CaseNeutre.h"
+
+1638017427 c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\caseneutre.h
+	"Paquet.h"
+	"Abstract_Case.h"
+
+1638017427 source:c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\chrono.cpp
+	"Chrono.h"
+
+1638017427 c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\chrono.h
+	"Allegfct.h"
+	"Outils.h"
+
+1638017427 source:c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\clavier.cpp
+	"Clavier.h"
+
+1638017428 source:c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\compte.cpp
+	"Compte.h"
+
+1638017428 source:c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\de.cpp
+	"De.h"
+
+1638017428 c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\de.h
+	"Paquet.h"
+	"Allegfct.h"
+
+1638017428 source:c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\enquete.cpp
+	"Enquete.h"
+
+1638017428 source:c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\enveloppe.cpp
+	"Enveloppe.h"
+
+1638017428 source:c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\feuille_regles.cpp
+	"Feuille_regles.h"
+
+1638017428 c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\feuille_regles.h
+	"Paquet.h"
+
+1638017428 source:c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\hotel.cpp
+	"Hotel.h"
+
+1638017428 c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\hotel.h
+	"Musiques.h"
+	"Allegfct.h"
+	"Souris.h"
+	"Outils.h"
+	"Compte.h"
+	"Plateau.h"
+	"Feuille_regles.h"
+	"Clavier.h"
+	"Abstract_Joueur.h"
+
+1638017428 c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\musiques.h
+	"Paquet.h"
+
+1638017429 c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\souris.h
+	"Paquet.h"
+
+1638017428 c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\plateau.h
+	"Paquet.h"
+	"Enveloppe.h"
+	"Player.h"
+	"Ordi.h"
+	"Chrono.h"
+	"Allegfct.h"
+	"De.h"
+	"Abstract_Case.h"
+	"CaseNeutre.h"
+	"PieceAutre.h"
+	"PieceCoin.h"
+	"PieceCentre.h"
+	"Porte.h"
+	"Case_telep.h"
+	"Case_verte.h"
+	"Case_rouge.h"
+
+1638017428 c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\player.h
+	"Paquet.h"
+	"Abstract_Joueur.h"
+
+1638017428 c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\ordi.h
+	"Paquet.h"
+	"Abstract_Joueur.h"
+	"Abstract_Case.h"
+
+1638017428 c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\pieceautre.h
+	"Abstract_Case.h"
+
+1638017428 c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\piececoin.h
+	"Abstract_Case.h"
+
+1638017428 c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\piececentre.h
+	"Abstract_Case.h"
+
+1638017428 c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\porte.h
+	"Abstract_Case.h"
+
+1638017428 source:c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\main.cpp
+	"Hotel.h"
+
+1638017428 source:c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\mur.cpp
+	"Mur.h"
+
+1638017428 source:c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\musiques.cpp
+	"Musiques.h"
+
+1638017428 source:c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\ordi.cpp
+	"Ordi.h"
+
+1638017428 source:c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\outils.cpp
+	"Outils.h"
+
+1638017428 source:c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\paquet.cpp
+	"Paquet.h"
+
+1638017428 source:c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\parme.cpp
+	"Parme.h"
+
+1638017428 source:c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\pieceautre.cpp
+	"PieceAutre.h"
+
+1638017428 source:c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\piececentre.cpp
+	"PieceCentre.h"
+
+1638017428 source:c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\piececoin.cpp
+	"PieceCoin.h"
+
+1638017428 source:c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\pion.cpp
+	"Pion.h"
+
+1638017428 source:c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\plateau.cpp
+	"Plateau.h"
+
+1638017428 source:c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\player.cpp
+	"Player.h"
+
+1638017428 source:c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\porte.cpp
+	"Porte.h"
+
+1638017428 source:c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\pperso.cpp
+	"Pperso.h"
+
+1638017429 source:c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\ppiece.cpp
+	"Ppiece.h"
+
+1638017429 source:c:\local\ece ( ing2 )\informatique (c++)\projet\cluedo\code\cluedo finale\cluedo_final\cluedo\souris.cpp
+	"Souris.h"
+
+1669140701 source:c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\abstract_case.cpp
+	"Abstract_Case.h"
+
+1669140701 c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\abstract_case.h
+	"paquet.h"
+	"Mur.h"
+	"outils.h"
+
+1669140700 c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\paquet.h
+	<iostream>
+	<time.h>
+	<stack>
+	<vector>
+	<map>
+	<fstream>
+	<allegro.h>
+	"Carte.h"
+	"Allegfct.h"
+
+1669140701 c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\carte.h
+
+1669140701 c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\allegfct.h
+	"Paquet.h"
+
+1669140699 c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\mur.h
+	"Paquet.h"
+
+1669140701 c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\outils.h
+	"Paquet.h"
+	"Allegfct.h"
+
+1669140701 source:c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\abstract_joueur.cpp
+	"Abstract_Joueur.h"
+
+1669140701 c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\abstract_joueur.h
+	"Paquet.h"
+	"Compte.h"
+	"Enquete.h"
+	"Clavier.h"
+	"Abstract_Case.h"
+	"Allegfct.h"
+	"Outils.h"
+	"Pion.h"
+	"Enveloppe.h"
+
+1669140699 c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\compte.h
+	"Paquet.h"
+
+1669140700 c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\enquete.h
+	"Allegfct.h"
+
+1669140701 c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\clavier.h
+	"Allegfct.h"
+	"Pion.h"
+
+1669140700 c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\pion.h
+	"Paquet.h"
+	"Allegfct.h"
+	"Abstract_Case.h"
+
+1669140700 c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\enveloppe.h
+	"Paquet.h"
+	"Pperso.h"
+	"Ppiece.h"
+	"Parme.h"
+	"Allegfct.h"
+
+1669140700 c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\pperso.h
+	"Paquet.h"
+
+1669140699 c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\ppiece.h
+	"Paquet.h"
+
+1669140700 c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\parme.h
+	"Paquet.h"
+
+1669140701 source:c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\allegfct.cpp
+	"allegfct.h"
+
+1669140701 source:c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\carte.cpp
+	"Paquet.h"
+	"Carte.h"
+	"Parme.h"
+	"Pperso.h"
+	"Ppiece.h"
+
+1669140701 source:c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\case_rouge.cpp
+	"Case_rouge.h"
+
+1669140701 c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\case_rouge.h
+	"Abstract_Case.h"
+
+1669140701 source:c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\case_telep.cpp
+	"Case_telep.h"
+
+1669140701 c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\case_telep.h
+	"Abstract_Case.h"
+
+1669140701 source:c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\case_verte.cpp
+	"Case_verte.h"
+
+1669140701 c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\case_verte.h
+	"Abstract_Case.h"
+
+1669140701 source:c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\caseneutre.cpp
+	"CaseNeutre.h"
+
+1669140701 c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\caseneutre.h
+	"Paquet.h"
+	"Abstract_Case.h"
+
+1669140701 source:c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\chrono.cpp
+	"Chrono.h"
+
+1669140701 c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\chrono.h
+	"Allegfct.h"
+	"Outils.h"
+
+1669140701 source:c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\clavier.cpp
+	"Clavier.h"
+
+1669140700 source:c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\compte.cpp
+	"Compte.h"
+
+1669140700 source:c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\de.cpp
+	"De.h"
+
+1669140700 c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\de.h
+	"Paquet.h"
+	"Allegfct.h"
+
+1669140699 source:c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\enquete.cpp
+	"Enquete.h"
+
+1669140700 source:c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\enveloppe.cpp
+	"Enveloppe.h"
+
+1669140700 source:c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\feuille_regles.cpp
+	"Feuille_regles.h"
+
+1669140701 c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\feuille_regles.h
+	"Paquet.h"
+
+1669140701 source:c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\hotel.cpp
+	"Hotel.h"
+
+1669140700 c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\hotel.h
+	"Musiques.h"
+	"Allegfct.h"
+	"Souris.h"
+	"Outils.h"
+	"Compte.h"
+	"Plateau.h"
+	"Feuille_regles.h"
+	"Clavier.h"
+	"Abstract_Joueur.h"
+
+1669140701 c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\musiques.h
+	"Paquet.h"
+
+1669140700 c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\souris.h
+	"Paquet.h"
+
+1669140700 c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\plateau.h
+	"Paquet.h"
+	"Enveloppe.h"
+	"Player.h"
+	"Ordi.h"
+	"Chrono.h"
+	"Allegfct.h"
+	"De.h"
+	"Abstract_Case.h"
+	"CaseNeutre.h"
+	"PieceAutre.h"
+	"PieceCoin.h"
+	"PieceCentre.h"
+	"Porte.h"
+	"Case_telep.h"
+	"Case_verte.h"
+	"Case_rouge.h"
+
+1669140700 c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\player.h
+	"Paquet.h"
+	"Abstract_Joueur.h"
+
+1669140700 c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\ordi.h
+	"Paquet.h"
+	"Abstract_Joueur.h"
+	"Abstract_Case.h"
+
+1669140701 c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\pieceautre.h
+	"Abstract_Case.h"
+
+1669140700 c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\piececoin.h
+	"Abstract_Case.h"
+
+1669140700 c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\piececentre.h
+	"Abstract_Case.h"
+
+1669140699 c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\porte.h
+	"Abstract_Case.h"
+
+1669140700 source:c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\main.cpp
+	"Hotel.h"
+
+1669140699 source:c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\mur.cpp
+	"Mur.h"
+
+1669140700 source:c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\musiques.cpp
+	"Musiques.h"
+
+1669140700 source:c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\ordi.cpp
+	"Ordi.h"
+
+1669140700 source:c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\outils.cpp
+	"Outils.h"
+
+1669140700 source:c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\paquet.cpp
+	"Paquet.h"
+
+1669140700 source:c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\parme.cpp
+	"Parme.h"
+
+1669140699 source:c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\pieceautre.cpp
+	"PieceAutre.h"
+
+1669140701 source:c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\piececentre.cpp
+	"PieceCentre.h"
+
+1669140700 source:c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\piececoin.cpp
+	"PieceCoin.h"
+
+1669140700 source:c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\pion.cpp
+	"Pion.h"
+
+1669140700 source:c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\plateau.cpp
+	"Plateau.h"
+
+1669140700 source:c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\player.cpp
+	"Player.h"
+
+1669140701 source:c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\porte.cpp
+	"Porte.h"
+
+1669140700 source:c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\pperso.cpp
+	"Pperso.h"
+
+1669140699 source:c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\ppiece.cpp
+	"Ppiece.h"
+
+1669140700 source:c:\local\projet pour git\cluedo (c++)_à modifier\cluedo\souris.cpp
+	"Souris.h"
+

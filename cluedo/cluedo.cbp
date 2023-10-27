@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="cluedo" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/cluedo" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/cluedo" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Abstract_Case.cpp" />
+		<Unit filename="Abstract_Case.h" />
+		<Unit filename="Abstract_Joueur.cpp" />
+		<Unit filename="Abstract_Joueur.h" />
+		<Unit filename="Allegfct.cpp" />
+		<Unit filename="Allegfct.h" />
+		<Unit filename="Carte.cpp" />
+		<Unit filename="Carte.h" />
+		<Unit filename="CaseNeutre.cpp" />
+		<Unit filename="CaseNeutre.h" />
+		<Unit filename="Case_rouge.cpp" />
+		<Unit filename="Case_rouge.h" />
+		<Unit filename="Case_telep.cpp" />
+		<Unit filename="Case_telep.h" />
+		<Unit filename="Case_verte.cpp" />
+		<Unit filename="Case_verte.h" />
+		<Unit filename="Chrono.cpp" />
+		<Unit filename="Chrono.h" />
+		<Unit filename="Clavier.cpp" />
+		<Unit filename="Clavier.h" />
+		<Unit filename="Compte.cpp" />
+		<Unit filename="Compte.h" />
+		<Unit filename="De.cpp" />
+		<Unit filename="De.h" />
+		<Unit filename="Enquete.cpp" />
+		<Unit filename="Enquete.h" />
+		<Unit filename="Enveloppe.cpp" />
+		<Unit filename="Enveloppe.h" />
+		<Unit filename="Feuille_regles.cpp" />
+		<Unit filename="Feuille_regles.h" />
+		<Unit filename="Hotel.cpp" />
+		<Unit filename="Hotel.h" />
+		<Unit filename="Mur.cpp" />
+		<Unit filename="Mur.h" />
+		<Unit filename="Musiques.cpp" />
+		<Unit filename="Musiques.h" />
+		<Unit filename="Ordi.cpp" />
+		<Unit filename="Ordi.h" />
+		<Unit filename="Outils.cpp" />
+		<Unit filename="Outils.h" />
+		<Unit filename="Paquet.cpp" />
+		<Unit filename="Paquet.h" />
+		<Unit filename="Parme.cpp" />
+		<Unit filename="Parme.h" />
+		<Unit filename="PieceAutre.cpp" />
+		<Unit filename="PieceAutre.h" />
+		<Unit filename="PieceCentre.cpp" />
+		<Unit filename="PieceCentre.h" />
+		<Unit filename="PieceCoin.cpp" />
+		<Unit filename="PieceCoin.h" />
+		<Unit filename="Pion.cpp" />
+		<Unit filename="Pion.h" />
+		<Unit filename="Plateau.cpp" />
+		<Unit filename="Plateau.h" />
+		<Unit filename="Player.cpp" />
+		<Unit filename="Player.h" />
+		<Unit filename="Porte.cpp" />
+		<Unit filename="Porte.h" />
+		<Unit filename="Pperso.cpp" />
+		<Unit filename="Pperso.h" />
+		<Unit filename="Ppiece.cpp" />
+		<Unit filename="Ppiece.h" />
+		<Unit filename="Souris.cpp" />
+		<Unit filename="Souris.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
