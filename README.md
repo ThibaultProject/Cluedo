@@ -1,6 +1,6 @@
 # Cluedo
 
-Cluedo is a text-based implementation of the classic board game where players must solve a murder mystery in Tudor Mansion. This project was developed as part of an object-oriented programming course in C++. This version of the Cluedo is inspired by the "Luigi Mission 2" Nintendo video game.
+Cluedo is a text-based implementation of the classic board game where players must solve a murder mystery in Tudor Mansion. This project was developed as part of an object-oriented programming course in C++. This version of the Cluedo is inspired by the "Luigi Mission 3" Nintendo video game.
 
 ## Table of Contents
 1. [Game Overview](#game-overview)
